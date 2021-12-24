@@ -1,0 +1,15 @@
+{
+    "name": "PWA-practice",
+    "shirt_name": "PWA-P",
+    "start_url": ".",
+    "display": "standalone",
+    "background-color": "#fff",
+    "description": "me practicing making a PWA",
+    "icons": [
+        {
+            "src": "unzappables.jpg",
+            "sizes": "480x360",
+            "type": "image/jpg"
+        }
+    ]
+}
